@@ -1,14 +1,14 @@
-title: Name of product or service
+title: Urbanfootprint
 
-email: tjharrop@gmail.com
+email: sharni@sharniallen.com
 description: >- # this means to ignore newlines until "baseurl:"
   Simple explaination of the product or service.
-baseurl: "/use-NSW-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tjharrop
-github_username:  tjharrop
+baseurl: "/urbanfootprint" # the subpath of your site, e.g. /blog
+url: "https://sharniallen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Urbanfootprint
+github_username:  SharniAllen
 
-browserTitle: NSW Gov prototyping demo
+browserTitle: Urban Test
 
 stage: prototype
 
